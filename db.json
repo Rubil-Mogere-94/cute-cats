@@ -1,0 +1,9 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "url": "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg",
+      "title": "Sleepy Cat"
+    }
+  ]
+}
