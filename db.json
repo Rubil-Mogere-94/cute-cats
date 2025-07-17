@@ -1,9 +1,16 @@
 {
   "cats": [
     {
-      "id": 1,
-      "url": "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg",
-      "title": "Sleepy Cat"
+      "id": "2",
+      "url": "https://cdn2.thecatapi.com/images/2jq.jpg",
+      "title": "Playful Kitten",
+      "description": "Playing with yarn"
+    },
+    {
+      "id": "182e",
+      "url": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg",
+      "title": "The great white cat",
+      "description": "a clean cat"
     }
   ]
 }
