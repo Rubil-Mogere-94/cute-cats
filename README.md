@@ -22,7 +22,7 @@ A responsive React application for managing a gallery of cute cat pictures. Perf
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/cat-gallery-manager.git
+git clone https://github.com/Rubil-Mogere-94/cute-cats.git
 cd cat-gallery-manager
 ```
 
@@ -68,7 +68,7 @@ npm run dev
    - Click "Delete" on any cat card
    - Confirm deletion (action is permanent)
 
-## Project Structure 📂
+## Project Structure 
 ```
 ├── src/
 │   ├── components/
@@ -81,7 +81,7 @@ npm run dev
 └── package.json               # Dependencies and scripts
 ```
 
-## Troubleshooting 🛠️
+## Troubleshooting 
 If you encounter issues:
 - **Port conflicts:** Ensure port 3001 (backend) and 5173 (frontend) are available
 - **Data not loading:** Verify JSON server is running with correct db.json
